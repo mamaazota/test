@@ -6,3 +6,5 @@ close
 
 dsadsa
 dsadas
+
+RESOLVE CONFLICT SUKA
